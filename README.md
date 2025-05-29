@@ -39,4 +39,4 @@ A role-based iOS application designed for Sehion Mar Thoma Church to connect its
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/sehion-church-app.git
+git clone https://github.com/jerinnerd/sehion-church-app.git
